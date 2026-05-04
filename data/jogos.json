@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nome": "The Legend of Zelda",
+    "categoria": "RPG",
+    "plataforma": "Switch",
+    "nota": 9.8
+  },
+  {
+    "id": 2,
+    "nome": "FIFA 24",
+    "categoria": "Esporte",
+    "plataforma": "PS5",
+    "nota": 7.5
+  },
+  {
+    "id": 3,
+    "nome": "Minecraft",
+    "categoria": "Sandbox",
+    "plataforma": "PC",
+    "nota": 9.2
+  },
+  {
+    "id": 4,
+    "nome": "Fortnite",
+    "categoria": "Battle Royale",
+    "plataforma": "PC",
+    "nota": 8.0
+  },
+  {
+    "id": 5,
+    "nome": "God of War",
+    "categoria": "Acao",
+    "plataforma": "PS5",
+    "nota": 9.7
+  },
+  {
+    "id": 6,
+    "nome": "Mario Kart 8",
+    "categoria": "Corrida",
+    "plataforma": "Switch",
+    "nota": 9.0
+  },
+  {
+    "id": 7,
+    "nome": "Cyberpunk 2077",
+    "categoria": "RPG",
+    "plataforma": "PC",
+    "nota": 8.5
+  }
+]
